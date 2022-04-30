@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         BuscaFilmes = new BuscaFilmes();
         BuscaFilmes.setVisible(true);
-
+        System.out.println("Ok!");
     }
 
 
